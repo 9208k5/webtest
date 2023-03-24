@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: audio team
+title: Zolan
 logo: logo.svg # You can add own logo.
-description: Sound soucializing committee
+description: Zolan is modern minimal theme for Jekyll
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: SSC
+  name: Alex Rodriguez
   image: 01.jpg
-  say-hello: Hello, We're <strong>Sound Team</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="https://magazine.cygames.co.jp/">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
+  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
@@ -25,25 +25,7 @@ pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://test-07nbnyocmf.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
